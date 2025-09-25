@@ -58,17 +58,33 @@ It uses a moisture sensor, LCD display, RGB LEDs, and a DFPlayer Mini with a spe
 
 ---
 
-## 📂 Project Structure  
-/Arduino-Screaming-Plant
+Arduino-Screaming-Plant/
 ├── src/
-│ └── ScreamingPlant.ino # Main code
-├── sounds/
-│ ├── 0001.mp3 # Dry scream
-│ ├── 0002.mp3 # Begging
-│ ├── 0003.mp3 # More begging
-│ └── 0004.mp3 # Happy/thanks
-├── README.md
+│   ├── screaming_plant.ino        # Main Arduino sketch
+│   ├── config.h                   # Pin definitions & constants
+│   └── utils.h                    # Helper functions (LED effects, random messages)
+│
+├── assets/
+│   ├── audio/
+│   │   ├── 0001.mp3               # Dry alert (variation 1)
+│   │   ├── 0002.mp3               # Dry alert (variation 2)
+│   │   ├── 0003.mp3               # Dry alert (variation 3)
+│   │   └── 0004.mp3               # Water received sound
+│   └── images/
+│       └── wiring_diagram.png     # Fritzing or circuit wiring diagram
+│
+├── docs/
+│   ├── README.md                  # Main project documentation
+│   └── changelog.md               # Version history
+│
+├── libraries/                     # External Arduino libraries
+│   ├── DHT/                       # DHT11 sensor library
+│   ├── DFPlayer_Mini/             # DFPlayer Mini library
+│   └── LiquidCrystal_I2C/         # LCD library
+│
+├── .gitignore
 └── LICENSE
+
 
 ---
 
