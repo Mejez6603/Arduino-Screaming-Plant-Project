@@ -62,8 +62,6 @@ It uses a moisture sensor, LCD display, RGB LEDs, and a DFPlayer Mini with a spe
 Arduino-Screaming-Plant/
 ├── src/
 │   ├── screaming_plant.ino        # Main Arduino sketch
-│   ├── config.h                   # Pin definitions & constants
-│   └── utils.h                    # Helper functions (LED effects, random messages)
 │
 ├── assets/
 │   ├── audio/
@@ -129,6 +127,11 @@ Arduino-Screaming-Plant/
 - [DFRobotDFPlayerMini Library](https://github.com/DFRobot/DFRobotDFPlayerMini)  
 - Arduino community tutorials for inspiration.  
 - Open-source spirit 🌍.  
+- Nooby 
+- Firelink
+- SBBC PC
+- Rita's PC
+- To my dog and cat
 
 ---
 
