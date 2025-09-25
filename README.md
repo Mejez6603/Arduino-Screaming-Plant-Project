@@ -5,7 +5,7 @@ It uses a moisture sensor, LCD display, RGB LEDs, and a DFPlayer Mini with a spe
 
 ![](assets/images/Screaming Plant Project.jpg) 
 ![](assets/images/Screaming Plant Circuit View.jpg) 
-![](assets/images/Screaming Plant Project Schema.jpg
+![](assets/images/Screaming Plant Project Schema.jpg)
 
 ---
 
