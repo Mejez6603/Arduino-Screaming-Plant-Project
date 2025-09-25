@@ -57,7 +57,8 @@ It uses a moisture sensor, LCD display, RGB LEDs, and a DFPlayer Mini with a spe
 3. Watch LCD messages, LED mood changes, and listen to plant “screams.”  
 
 ---
-
+## 📂 Project Structure  
+---
 Arduino-Screaming-Plant/
 ├── src/
 │   ├── screaming_plant.ino        # Main Arduino sketch
@@ -84,6 +85,7 @@ Arduino-Screaming-Plant/
 │
 ├── .gitignore
 └── LICENSE
+---
 
 
 ---
