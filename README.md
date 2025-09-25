@@ -3,6 +3,10 @@
 A fun Arduino project where your plant can “scream,” “beg,” or “sing” based on its soil moisture level.  
 It uses a moisture sensor, LCD display, RGB LEDs, and a DFPlayer Mini with a speaker to give your plant a personality.  
 
+![](assets/images/Screaming Plant Project.jpg) 
+![](assets/images/Screaming Plant Circuit View.jpg) 
+![](assets/images/Screaming Plant Project Schema.jpg
+
 ---
 
 ## ✨ Features  
