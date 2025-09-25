@@ -60,8 +60,7 @@ It uses a moisture sensor, LCD display, RGB LEDs, and a DFPlayer Mini with a spe
 ## 📂 Project Structure  
 ```
 Arduino-Screaming-Plant/
-├── src/
-│   ├── screaming_plant.ino        # Main Arduino sketch
+├── screaming_plant.ino        # Main Arduino sketch
 │
 ├── assets/
 │   ├── audio/
@@ -75,11 +74,6 @@ Arduino-Screaming-Plant/
 ├── docs/
 │   ├── README.md                  # Main project documentation
 │   └── changelog.md               # Version history
-│
-├── libraries/                     # External Arduino libraries
-│   ├── DHT/                       # DHT11 sensor library
-│   ├── DFPlayer_Mini/             # DFPlayer Mini library
-│   └── LiquidCrystal_I2C/         # LCD library
 │
 ├── .gitignore
 └── LICENSE
