@@ -102,7 +102,28 @@ Arduino-Screaming-Plant/
 ---
 
 ## 📝 Changelog  
-- **v1.0** — Initial release with LCD, RGB LED, DFPlayer Mini, and soil moisture sensor.  
+## [1.1.0] - 2025-09-25
+### Added
+- New thirsty sound files (`0001.mp3` – `0004.mp3`).
+- Special watering sound (`0005.mp3`) triggered when plant receives water.
+- Improved randomization for thirsty messages.
+
+### Changed
+- Updated DFPlayer logic to support expanded audio files.
+- Adjusted LCD messages to sync with new sound logic.
+
+---
+
+## [1.0.0] - 2025-09-20
+### Added
+- Initial release of **Screaming Plant Project**.
+- Soil moisture sensor calibration (`wet = 511`, `dry = 673`).
+- LCD display with randomized plant messages.
+- RGB LED indicators:
+  - Flashing Red = Thirsty.
+  - Solid Green = Happy.
+  - Breathing Blue = Resting.
+- DFPlayer Mini integration with 4 audio tracks.
 
 ---
 
