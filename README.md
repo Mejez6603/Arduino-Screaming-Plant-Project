@@ -125,6 +125,7 @@ Arduino-Screaming-Plant/
 - [DFRobotDFPlayerMini Library](https://github.com/DFRobot/DFRobotDFPlayerMini)  
 - Arduino community tutorials for inspiration.  
 - Open-source spirit 🌍.  
+- TINKERCAD
 - Nooby 
 - Firelink
 - SBBC PC
